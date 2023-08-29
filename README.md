@@ -1,11 +1,5 @@
 # Expenses Tracker
 
-A new Flutter project.
-
-## Introduction
-
-A user-friendly app that allows users to track their expenses. The app allows users to add expenses, view a list of all expenses, filter expenses, and view statistical information about their expenses.
-
 ## Installation
 To run the Flutter application locally, please follow these steps:
 
