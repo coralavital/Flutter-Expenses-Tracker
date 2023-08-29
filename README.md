@@ -1,10 +1,10 @@
 # Expenses Tracker
 
-A new Flutter project.
-
 ## Introduction
 
 A user-friendly app that allows users to track their expenses. The app allows users to add expenses, view a list of all expenses, filter expenses, and view statistical information about their expenses.
+
+## Introduction
 
 To add an expense, the user enters a title, amount, date, and category. The main page displays a list of all expenses, along with their titles, amounts, dates, and categories. The user can filter the list of expenses by title, amount, date, or category. They can also view statistical information about their expenses, such as the total amount spent, the average amount spent per day, and the most common categories of expenses.
 
