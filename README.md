@@ -33,10 +33,10 @@ The "Statistics" button will open a new page with the following information:
 The user can use this information to track their spending habits and make changes to their budget if necessary.
 
 ## Screenshots
-#### Sign up
-<img src="https://github.com/coralavital/Flutter-Expenses-Tracker/blob/main/assets/screenshots/1.png" width="50"/>
+#### Home Screen
+<img src="https://github.com/coralavital/Flutter-Expenses-Tracker/blob/main/assets/screenshots/1.png" width="100"/>
 
-#### Recently detected products
-![add expense screen](https://github.com/coralavital/Flutter-Expenses-Tracker/blob/main/assets/screenshots/2.png)
+#### Add Expense Screen
+<img src="https://github.com/coralavital/Flutter-Expenses-Tracker/blob/main/assets/screenshots/2.png" width="100"/>
 
 
