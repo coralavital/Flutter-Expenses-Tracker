@@ -1,21 +1,48 @@
 # Expenses Tracker
 
+A new Flutter project.
+
 ## Introduction
 
 A user-friendly app that allows users to track their expenses. The app allows users to add expenses, view a list of all expenses, filter expenses, and view statistical information about their expenses.
 
-## Introduction
+## Installation
+To run the Flutter application locally, please follow these steps:
 
-To add an expense, the user enters a title, amount, date, and category. The main page displays a list of all expenses, along with their titles, amounts, dates, and categories. The user can filter the list of expenses by title, amount, date, or category. They can also view statistical information about their expenses, such as the total amount spent, the average amount spent per day, and the most common categories of expenses.
+1. Make sure you have Flutter and Dart installed on your machine. If not, refer to the [official Flutter documentation](https://flutter.dev/docs/get-started/install) for installation instructions.
 
-Here is an example of how the user interface might look:
+2. Clone this repository to your local machine using the following command:
+  git clone https://github.com/coralavital/FridgeIT_Flutter_Application.git
+
+3. Navigate to the project directory:
+  cd flutter-app
+
+4. Install the necessary dependencies by running:
+  flutter pub get
+  
+5. Run the Flutter application:
+  flutter run
+  This command will launch the application on the connected device or emulator.
+
+## Features
+
+To add an expense, the user enters a title, amount, date, and category. 
+The main page displays a list of all expenses, along with their titles, amounts, dates, and categories. 
+The user can filter the list of expenses by title, amount, date, or category. 
+They can also view statistical information about their expenses, such as the total amount spent, the average amount spent per day, and the most common categories of expenses.
 
 
-The user can filter the list of expenses by clicking on the filter button. The filter button 
-The user can select one or more of these options to filter the list of expenses. For example, if the user selects the "Title" option and enters the word "coffee," the list of expenses will be filtered to show only expenses with the title "Coffee."
-
-The user can also view statistical information about their expenses by clicking on the "Statistics" button. The "Statistics" button will open a new page with the following information:
+Users can also view statistical information about their expenses by clicking the "Statistics" button. 
+The "Statistics" button will open a new page with the following information:
  * Total amount spent for each category
 
 The user can use this information to track their spending habits and make changes to their budget if necessary.
+
+## Screenshots
+#### Sign up
+![sign up](https://github.com/coralavital/Flutter-Expenses-Tracker/assets/screenshots/Screenshot 2023-08-29 at 17.09.09.png)
+
+#### Recently detected products
+![home screen](https://github.com/coralavital/Flutter-Expenses-Tracker/assets/screenshots/Screenshot 2023-08-29 at 17.10.24.png)
+
 
