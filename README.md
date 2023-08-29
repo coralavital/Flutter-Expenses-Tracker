@@ -34,9 +34,9 @@ The user can use this information to track their spending habits and make change
 
 ## Screenshots
 #### Home Screen
-<img src="https://github.com/coralavital/Flutter-Expenses-Tracker/blob/main/assets/screenshots/1.png" width="100"/>
+<img src="https://github.com/coralavital/Flutter-Expenses-Tracker/blob/main/assets/screenshots/1.png" width="250"/>
 
 #### Add Expense Screen
-<img src="https://github.com/coralavital/Flutter-Expenses-Tracker/blob/main/assets/screenshots/2.png" width="100"/>
+<img src="https://github.com/coralavital/Flutter-Expenses-Tracker/blob/main/assets/screenshots/2.png" width="250"/>
 
 
