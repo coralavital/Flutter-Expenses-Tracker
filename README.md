@@ -34,7 +34,7 @@ The user can use this information to track their spending habits and make change
 
 ## Screenshots
 #### Sign up
-![<img src="[image.png](https://github.com/coralavital/Flutter-Expenses-Tracker/blob/main/assets/screenshots/1.png)" width="50"/>](https://github.com/coralavital/Flutter-Expenses-Tracker/blob/main/assets/screenshots/1.png)
+![<img src="https://github.com/coralavital/Flutter-Expenses-Tracker/blob/main/assets/screenshots/1.png" width="50"/>](https://github.com/coralavital/Flutter-Expenses-Tracker/blob/main/assets/screenshots/1.png)
 
 #### Recently detected products
 ![add expense screen](https://github.com/coralavital/Flutter-Expenses-Tracker/blob/main/assets/screenshots/2.png)
